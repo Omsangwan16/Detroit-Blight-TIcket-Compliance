@@ -1,2 +1,2 @@
 # Detroit-Blight-TIcket-Compliance
-The Model predicting the probability whether a blight ticket in the city of Detroit will be paid on time or not
+The Project involves analyzing the Blight ticket data of the City of Detroit taken from [Detroit's Open Data Portal](https://data.detroitmi.gov/)./n
